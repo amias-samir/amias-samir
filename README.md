@@ -80,42 +80,12 @@
   alt="GitHub Profile Details"
 />
 
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amias-samir&theme=github_dark&animation=load"
-  alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amias-samir&theme=github_dark&animation=load"
-  alt="Top Languages"
-/>
-
-</div>
-
----
-
-## 💻 Language Activity
+<!-- <br/><br/> -->
 
 <div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amias-samir&theme=github_dark&animation=rise"
-  alt="Most Commit Language"
-/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amias-samir&theme=github_dark&animation=load" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amias-samir&theme=github_dark&animation=load" alt="Top Languages" />
 </div>
-
-> Language statistics are calculated from my GitHub repositories and do not necessarily represent my proficiency with each technology.
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amias-samir&theme=github-compact&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
 
